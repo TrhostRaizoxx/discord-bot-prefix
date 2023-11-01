@@ -1,5 +1,5 @@
 module.exports = {
 
-    token: "MTE2NzgyOTQzMjM2MzQwMTIzNg.GZmWej.v-bbPEhjAXCIPeH4eapRilFcC6VO1YPNwqezko",
-    prefix: "+"
+    token: "TOKEN_BOT", // A remplacer par le token de votre bot
+    prefix: "YOUR_PREFIX" // A remplacer par le préfixe que vous désirez
 }
